@@ -1,0 +1,1 @@
+{"name":"daycare-zero-visits-demo","version":"1.0.0","private":true,"description":"Fictional-data daily no-visit monitoring portfolio demo","scripts":{"start":"node src/index.js","test":"node --test"},"engines":{"node":">=20"}}

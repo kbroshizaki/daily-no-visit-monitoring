@@ -1,0 +1,28 @@
+[
+  {
+    "companyId": "D001",
+    "name": "Redwood Demo Location",
+    "openDate": "2024-01-01"
+  },
+  {
+    "companyId": "D002",
+    "name": "Willow Demo Location",
+    "openDate": "2024-04-01"
+  },
+  {
+    "companyId": "D003",
+    "name": "Cedar Demo Location",
+    "openDate": "2024-01-01"
+  },
+  {
+    "companyId": "D004",
+    "name": "Birch Demo Location",
+    "openDate": "2024-01-01",
+    "closeDate": "2026-09-01"
+  },
+  {
+    "companyId": "D005",
+    "name": "Pine Demo Location",
+    "openDate": "2026-11-01"
+  }
+]

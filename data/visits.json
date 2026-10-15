@@ -1,0 +1,26 @@
+[
+  {
+    "companyId": "D001",
+    "date": "2026-10-08",
+    "daycareCount": 20,
+    "boardingCount": 4
+  },
+  {
+    "companyId": "D001",
+    "date": "2026-10-09",
+    "daycareCount": 0,
+    "boardingCount": 0
+  },
+  {
+    "companyId": "D002",
+    "date": "2026-10-09",
+    "daycareCount": 10,
+    "boardingCount": 0
+  },
+  {
+    "companyId": "D003",
+    "date": "2026-10-10",
+    "daycareCount": 0,
+    "boardingCount": 5
+  }
+]
