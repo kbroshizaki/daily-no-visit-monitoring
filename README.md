@@ -1,10 +1,10 @@
 # Daily No-Visit Monitoring
 
-A fictional-data portfolio demonstration by Katherine Hoshizaki of a daily exception-reporting workflow built with SQL and JavaScript.
+A fictional-data portfolio demonstration of a daily exception-reporting workflow built with SQL and JavaScript.
 
 ## Business problem
 
-Locations with no recorded dog visits previously surfaced when a store or Franchise Business Partner noticed declining sales or dog counts. I chose a daily automated email over a dashboard because recipients needed timely visibility without checking a report manually.
+Locations with no recorded visits previously surfaced when a store or Franchise Business Partner noticed declining sales or visitor counts. I chose a daily automated email over a dashboard because recipients needed timely visibility without checking a report manually.
 
 The production workflow runs on a daily timed trigger. Recipients investigate whether a single-day or multi-day gap has an expected explanation or needs follow-up. This repository demonstrates that logic locally. It contains no production data, credentials, recipients, or database connections, and never sends email.
 
